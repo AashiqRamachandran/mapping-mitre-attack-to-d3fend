@@ -1,4 +1,4 @@
-## **ATT&CK to D3FEND: The Synthesis of MITRE ATT&CK and D3FEND**
+## ** ATT&CK to D3FEND: The Synthesis of MITRE ATT&CK and D3FEND **
 
 ![mitre-logo](images/image1.png)
 
@@ -27,7 +27,7 @@ Amongst other use cases, some of the everyday use cases with MITRE have been;
 * **Threat Intelligence**: Analyzing adversarial data for patterns.  
 * **Red Teaming and Penetration Testing**: Simulating real-world attacks.
 
-#### **MITRE D3FEND Framework**
+#### ** MITRE D3FEND Framework **
 
 ##### **Overview**
 
